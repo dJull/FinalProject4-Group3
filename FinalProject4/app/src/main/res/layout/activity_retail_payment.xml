@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RetailPayment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="vertical"
+        android:background="#F4F4F4"
+        android:elevation="6dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F4F4F4"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:src="@drawable/ic_baseline_keyboard_backspace_24"
+                android:layout_marginTop="32dp" />
+
+            <TextView
+                android:id="@+id/text_notifications"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.6"
+                android:layout_marginTop="32dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:text="Payment"
+                android:textStyle="bold"
+                app:layout_constraintTop_toTopOf="parent"
+                android:textColor="#3D3D3D"/>
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:layout_marginTop="32dp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginTop="18dp"
+            android:text="Total Payment"
+            android:textAlignment="textStart"
+            android:textColor="#585858"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/john"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="9dp"
+            android:drawableLeft="@drawable/purple_line"
+            android:drawablePadding="18dp"
+            android:text="Rp332.333,00"
+            android:textAlignment="textStart"
+            android:textColor="#8749F2"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/method"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginTop="9dp"
+            android:text="Please select one of the payment method below"
+            android:textAlignment="textStart"
+            android:textColor="#808080"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/payment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginTop="36dp"
+            android:drawableLeft="@drawable/alfa"
+            android:drawablePadding="10dp"
+            android:text="Alfamart"
+            android:textAlignment="textStart"
+            android:textColor="#808080"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/selecttransfer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginTop="36dp"
+            android:text="1. Ask the cashier for Online payment"
+            android:textAlignment="textStart"
+            android:textColor="#808080"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/select2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginTop="9dp"
+            android:text="2. When you asked what Payment, answer Bux"
+            android:textAlignment="textStart"
+            android:textColor="#808080"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/select3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginEnd="23dp"
+            android:layout_marginTop="9dp"
+            android:text="3. The cashier will ask what is your booking code. Here is your booking code"
+            android:textAlignment="textStart"
+            android:textColor="#808080"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F4F4F4"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:layout_marginTop="18dp" />
+
+            <TextView
+                android:id="@+id/angkaa"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.6"
+                android:layout_marginTop="18dp"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:text="230719-0001"
+                android:textStyle="bold"
+                app:layout_constraintTop_toTopOf="parent"
+                android:textColor="#8749F2"/>
+
+            <ImageView
+                android:id="@+id/qrqode"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:src="@drawable/ic_baseline_qr_code_24_purple"
+                android:layout_marginTop="18dp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/select4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginEnd="23dp"
+            android:layout_marginTop="18dp"
+            android:text="4. You're gonna be charged as much as the total payment. (as you can see in this header)."
+            android:textAlignment="textStart"
+            android:textColor="#808080"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/select5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginEnd="23dp"
+            android:layout_marginTop="9dp"
+            android:text="5. Keep the recipt, in case you're having problem with payment verification"
+            android:textAlignment="textStart"
+            android:textColor="#808080"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btnpay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:text="VERIFY PAYMENT"
+            android:background="#693BB8"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

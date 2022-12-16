@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.1255" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/drawable/ic_baseline_circle_242.xml" value="0.1255" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/drawable/ic_baseline_circle_243.xml" value="0.1255" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.1255" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1255" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_bus_detail.xml" value="0.11458333333333333" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_choose_seats.xml" value="0.11458333333333333" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_detail_payment.xml" value="0.15052083333333333" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_main.xml" value="0.151268115942029" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_payment_method.xml" value="0.1796875" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_registration.xml" value="0.1796875" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_retail_payment.xml" value="0.15052083333333333" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_schedule_list_renew.xml" value="0.11458333333333333" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_search_destination.xml" value="0.11458333333333333" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/activity_tickets_detail.xml" value="0.151268115942029" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/custom_dialog1_layout.xml" value="0.1796875" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/custom_dialog_layout.xml" value="0.15052083333333333" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/fragment_profile.xml" value="0.151268115942029" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/layout/list_items.xml" value="0.151268115942029" />
+        <entry key="..\:/Mata Kuliah/Semester 7/Studi Independent/Final Project/FINPRO 4/FinalProject4/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/drawable/background_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.15" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1225" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1225" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/activity_confirmation_registration.xml" value="0.1796875" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/activity_profile.xml" value="0.1296875" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/activity_registration.xml" value="0.15211640211640212" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/activity_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/fragment_dashboard.xml" value="0.1796875" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/fragment_notifications.xml" value="0.1796875" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/fragment_profile.xml" value="0.1796875" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/layout/list_items.xml" value="0.14743589743589744" />
+        <entry key="..\:/Users/joeld/AndroidStudioProjects/FinalProject4/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
